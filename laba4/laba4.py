@@ -34,3 +34,7 @@ def get_value(dictionary):
     value = dictionary.get(key)
     print(value)
 get_value(d)
+
+'''задание 5'''
+from figures import square_perimeter
+square_perimeter()
